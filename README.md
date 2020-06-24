@@ -9,3 +9,6 @@ Though still I am working with it for nearly 100% accuracy so that it can be sco
 
 
 ![dinosaurBotDone](https://user-images.githubusercontent.com/64744693/85575150-265a0600-b659-11ea-998c-906d67be1b5e.gif)
+
+I have scored 823 with my another gameBot, named 'pianoTilesBot'. It will show more efficiency with the High RAM PC.
+Although I am still working with it to achieve more accuracy.
