@@ -12,3 +12,7 @@ Though still I am working with it for nearly 100% accuracy so that it can be sco
 
 I have scored 823 with my another gameBot, named 'pianoTilesBot'. It will show more efficiency with the High RAM PC.
 Although I am still working with it to achieve more accuracy.
+
+## Here is demo video for this project. And hope you will enjoy it.
+![pianoTilesBot-0-1-5676](https://user-images.githubusercontent.com/64744693/85577326-f3b10d00-b65a-11ea-97ba-f74f6af2606f.gif)
+
